@@ -1,0 +1,193 @@
+{
+	"slide-default": [
+		{
+			"id": "1",
+			"small": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620641097840_145.jpg?alt=media&token=79ef9b62-fac0-404e-8488-42b2dbaf2d5f",
+			"large": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620641097840_org.jpg?alt=media&token=628238ce-23c1-47a1-93bc-b8532672e0a3",
+			"title": "Mẩy Thật Đấy - BigDaddy"
+		},
+		{
+			"id": "2",
+			"small": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620633191534_145.jpg?alt=media&token=b311466a-ad6c-4543-97f9-a290e4b0c5cc",
+			"large": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620633191534_org.jpg?alt=media&token=fbd823e6-f0a0-4fce-9b37-71dd3caf5682",
+			"title": "Cho Ngày Không Còn Nhau - T.R.I"
+		},
+		{
+			"id": "3",
+			"small": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620632958206_145.jpg?alt=media&token=f43e8c22-4018-4fc3-be3d-767e8ce7957a",
+			"large": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620632958206_org.jpg?alt=media&token=7e32ec57-741b-44a8-96dd-c38bceaaaf09",
+			"title": "Đã Từng Là Tất Cả - Gemini Band"
+		},
+		{
+			"id": "4",
+			"small": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620630252759_145.jpg?alt=media&token=87910294-f005-405a-9c99-5c872cb29586",
+			"large": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620630252759_org.jpg?alt=media&token=a5016700-388d-45a7-8e13-8840a6136158",
+			"title": "Album Hai Ta Đã Khác - DC Tâm"
+		},
+		{
+			"id": "5",
+			"small": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620359349369_145.jpg?alt=media&token=becabbbd-a895-4636-9b7b-f150f47863df",
+			"large": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620359349369_org.jpg?alt=media&token=35bf6fef-30c2-4aba-8da6-ea1313f57332",
+			"title": "VPOP Nhạc Mới Mỗi Ngày"
+		}
+	],
+	"listening-what-today": [
+		{
+			"id": "1",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/01/11/0/7/e/2/1610337494469_300.jpg",
+			"title": "Nhạc Trẻ Cũ Mà Hay (Vol. 1) - V.A",
+			"view": "10.863"
+		},
+		{
+			"id": "2",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2020/10/15/b/5/b/d/1602755100720_300.jpg",
+			"title": "50 Bản Tình Ca Hay Nhất Mọi Thời Đại - V.A",
+			"view": "32.568"
+		},
+		{
+			"id": "3",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2020/10/29/c/1/1/9/1603940537407_300.jpg",
+			"title": "Nhạc Phim Huyền Thoại - V.A",
+			"view": "20.497"
+		},
+		{
+			"id": "4",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/19/7/2/7/4/1621417733054_300.jpg",
+			"title": "VPop Hôm Qua Nghe Gì - V.A",
+			"view": "135.813"
+		},
+		{
+			"id": "5",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/21/b/a/2/f/1621564781248_300.jpg",
+			"title": "Nhạc Việt Hôm Nay Nghe Gì? - V.A",
+			"view": "1.422.281"
+		},
+		{
+			"id": "6",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/04/3/b/6/d/1620124248846_300.jpg",
+			"title": "Remix Âu Mỹ Hay Nhất 2021 - V.A",
+			"view": "10.863"
+		},
+		{
+			"id": "7",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/17/1/a/b/f/1621235782141_300.jpg",
+			"title": "US-UK Không Thể Bỏ Qua - V.A",
+			"view": "32.568"
+		},
+		{
+			"id": "8",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/04/29/c/2/f/d/1619681732309_300.jpg",
+			"title": "Nhạc Âu Mỹ Hot Tháng 05/2021 - V.A",
+			"view": "20.497"
+		},
+		{
+			"id": "9",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/06/0/3/3/2/1620290332918_300.jpg",
+			"title": "VPop Hôm Qua Nghe Gì - V.A",
+			"view": "135.813"
+		},
+		{
+			"id": "10",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/07/9/1/c/4/1620356405109_300.jpg",
+			"title": "Nhạc Việt Hôm Nay Nghe Gì? - V.A",
+			"view": "1.422.281"
+		},
+		{
+			"id": "11",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/06/0/3/3/2/1620290332918_300.jpg",
+			"title": "VPop Hôm Qua Nghe Gì - V.A",
+			"view": "135.813"
+		},
+		{
+			"id": "12",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/07/9/1/c/4/1620356405109_300.jpg",
+			"title": "Nhạc Việt Hôm Nay Nghe Gì? - V.A",
+			"view": "1.422.281"
+		},
+		{
+			"id": "13",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/01/11/0/7/e/2/1610337494469_300.jpg",
+			"title": "Nhạc Trẻ Cũ Mà Hay (Vol. 1) - V.A",
+			"view": "10.863"
+		},
+		{
+			"id": "14",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2020/10/15/b/5/b/d/1602755100720_300.jpg",
+			"title": "50 Bản Tình Ca Hay Nhất Mọi Thời Đại - V.A",
+			"view": "32.568"
+		},
+		{
+			"id": "15",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/17/1/a/b/f/1621235782141_300.jpg",
+			"title": "US-UK Không Thể Bỏ Qua - V.A",
+			"view": "32.568"
+		}
+	],
+	"pagination": {
+		"_limit": "5",
+		"_page": "1",
+		"_totalRows": "15"
+	},
+	"album-hot": [
+		{
+			"id": "1",
+			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1620204931258_300.jpg?alt=media&token=67498f77-1747-428c-aef1-aa2970553b85",
+			"title": "Mượn Gió Bẻ Măng - X2X",
+			"view": "83.922"
+		},
+		{
+			"id": "2",
+			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1619848955202_300.jpg?alt=media&token=95af4eea-e1f2-44e8-ac79-f5c7429d09f1",
+			"title": "Đừng Đùa Với Lửa (Thiên Thần Hộ Mệnh OST) - Lena",
+			"view": "197.720"
+		},
+		{
+			"id": "3",
+			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1619601720262_300.jpg?alt=media&token=fd7fddc4-1e79-4606-ba5d-08326bcb2a3d",
+			"title": "Hôm Nay Lạ Quá - BRay, Masew",
+			"view": "70.472"
+		},
+		{
+			"id": "4",
+			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1618839617642_300.jpg?alt=media&token=30a729e7-0eed-44d8-b37b-f1236a87680b",
+			"title": "Về Lại Bên Em - Tus, Quanium",
+			"view": "3.882"
+		},
+		{
+			"id": "5",
+			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1620058081401_300.jpg?alt=media&token=5d5f43f6-f6f1-4ddf-8557-92aa8cf4a301",
+			"title": "Nếu Gọi Là Anh Em - Thiên Dũng",
+			"view": "622"
+		},
+		{
+			"id": "6",
+			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1616742443204_300.jpg?alt=media&token=c1b7c750-12a7-411b-b2ca-3fbc1bfa6f59",
+			"title": "KG0516 - Karol G",
+			"view": "909"
+		},
+		{
+			"id": "7",
+			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1620373252571_300.jpg?alt=media&token=fc73232a-7536-488a-8d4e-72767d76a0e7",
+			"title": "Better Mistakes - Bebe Rexha",
+			"view": "115"
+		},
+		{
+			"id": "8",
+			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1616401589158_300.jpg?alt=media&token=27773cbc-9c77-4770-b3e1-ba80c53091d6",
+			"title": "Best Friend (feat. Doja Cat) [Remix EPT] - Saweetie",
+			"view": "72"
+		},
+		{
+			"id": "9",
+			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1613711206713_300.jpg?alt=media&token=5b626ae9-7298-41d5-b72a-0d4b803cd8fd",
+			"title": "The Book of Us : Negentropy - DAY 6",
+			"view": "2.436"
+		},
+		{
+			"id": "10",
+			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1618809105507_300.jpg?alt=media&token=7ae391ae-384a-411b-a596-4ce30a5fa806",
+			"title": "Positions (Deluxe) - Ariana Grande",
+			"view": "16.362"
+		}
+	]
+}
