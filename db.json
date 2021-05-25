@@ -91,11 +91,6 @@
 			"view": "32.568"
 		}
 	],
-	"pagination": {
-		"_limit": "5",
-		"_page": "1",
-		"_totalRows": "15"
-	},
 	"album-hot": [
 		{
 			"id": "1",
@@ -158,62 +153,62 @@
 			"view": "16.362"
 		},
 		{
-			"id": "1",
-			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1620204931258_300.jpg?alt=media&token=67498f77-1747-428c-aef1-aa2970553b85",
+			"id": "11",
+			"image": "https://avatar-ex-swe.nixcdn.com/song/2021/05/24/f/8/d/8/1621822986241_300.jpg",
 			"title": "Mượn Gió Bẻ Măng - X2X",
 			"view": "83.922"
 		},
 		{
-			"id": "2",
-			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1619848955202_300.jpg?alt=media&token=95af4eea-e1f2-44e8-ac79-f5c7429d09f1",
+			"id": "12",
+			"image": "https://avatar-ex-swe.nixcdn.com/song/2021/05/24/f/8/d/8/1621841525868_300.jpg",
 			"title": "Đừng Đùa Với Lửa (Thiên Thần Hộ Mệnh OST) - Lena",
 			"view": "197.720"
 		},
 		{
-			"id": "3",
-			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1619601720262_300.jpg?alt=media&token=fd7fddc4-1e79-4606-ba5d-08326bcb2a3d",
+			"id": "13",
+			"image": "https://avatar-ex-swe.nixcdn.com/song/2021/05/17/8/6/3/c/1621247259351_300.jpg",
 			"title": "Hôm Nay Lạ Quá - BRay, Masew",
 			"view": "70.472"
 		},
 		{
-			"id": "4",
-			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1618839617642_300.jpg?alt=media&token=30a729e7-0eed-44d8-b37b-f1236a87680b",
+			"id": "14",
+			"image": "https://avatar-ex-swe.nixcdn.com/song/2021/05/16/2/5/0/c/1621171818116_300.jpg",
 			"title": "Về Lại Bên Em - Tus, Quanium",
 			"view": "3.882"
 		},
 		{
-			"id": "5",
-			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1620058081401_300.jpg?alt=media&token=5d5f43f6-f6f1-4ddf-8557-92aa8cf4a301",
+			"id": "15",
+			"image": "https://avatar-ex-swe.nixcdn.com/song/2021/05/14/d/d/1/9/1620964271608_300.jpg",
 			"title": "Nếu Gọi Là Anh Em - Thiên Dũng",
 			"view": "622"
 		},
 		{
-			"id": "6",
-			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1616742443204_300.jpg?alt=media&token=c1b7c750-12a7-411b-b2ca-3fbc1bfa6f59",
+			"id": "16",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/24/6/b/7/9/1621842974247_300.jpg",
 			"title": "KG0516 - Karol G",
 			"view": "909"
 		},
 		{
-			"id": "7",
-			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1620373252571_300.jpg?alt=media&token=fc73232a-7536-488a-8d4e-72767d76a0e7",
+			"id": "17",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/21/b/a/2/f/1621564254174_300.jpg",
 			"title": "Better Mistakes - Bebe Rexha",
 			"view": "115"
 		},
 		{
-			"id": "8",
-			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1616401589158_300.jpg?alt=media&token=27773cbc-9c77-4770-b3e1-ba80c53091d6",
+			"id": "18",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/21/a/0/3/8/1621580059906_300.jpg",
 			"title": "Best Friend (feat. Doja Cat) [Remix EPT] - Saweetie",
 			"view": "72"
 		},
 		{
-			"id": "9",
-			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1613711206713_300.jpg?alt=media&token=5b626ae9-7298-41d5-b72a-0d4b803cd8fd",
+			"id": "19",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/04/12/7/2/9/3/1618215307889_300.jpg",
 			"title": "The Book of Us : Negentropy - DAY 6",
 			"view": "2.436"
 		},
 		{
-			"id": "10",
-			"image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FalbumHot%2F1618809105507_300.jpg?alt=media&token=7ae391ae-384a-411b-a596-4ce30a5fa806",
+			"id": "20",
+			"image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/03/12/0/f/1/e/1615542014826_300.jpg",
 			"title": "Positions (Deluxe) - Ariana Grande",
 			"view": "16.362"
 		}
